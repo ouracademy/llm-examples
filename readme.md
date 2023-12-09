@@ -1,6 +1,7 @@
 # LLM examples
 Demos that generate content using Chat GPT
 
+- Flowchart generator
 ## Installation process
 - virtualenv -p python3 venv
 - source venv/bin/activate
